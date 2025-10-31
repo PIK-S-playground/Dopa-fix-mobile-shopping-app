@@ -1,0 +1,4 @@
+# From your project root folder
+git init
+git add .
+git commit -m "Initial commit — ADHD Dopamine Shop complete"
